@@ -8,4 +8,4 @@ que detecta fallas de energía para conmutar automáticamente al suministro de b
 que funciona como esclavo, este dispositivo funciona en formato de 24 o 12 horas con un indicador AM/PM. Este módulo suministra la información de segundos,
 minutos, horas, día, mes y año.
 
-![image](https://github.com/LuisMardueno/Pagina/blob/main/Circuito.PNG)
+![image](https://cdn.discordapp.com/attachments/455214191230582795/1152079125012566166/image.png)
