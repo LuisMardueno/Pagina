@@ -1,10 +1,2 @@
-<!DOCTYPE html>
-<html>
-<body>
 
-<h2 title="I'm a header">The title Attribute</h2>
-
-<p title="I'm a tooltip">Mouse over this paragraph, to display the title attribute as a tooltip.</p>
-
-</body>
-</html>
+![image](https://github.com/KarimeIsabel/SistemasProgramables/assets/60378108/1d75c0d4-a003-4e74-aaf0-fb388539ab8e)
