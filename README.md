@@ -1,4 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
 
-# Sensor
+<h2 title="I'm a header">The title Attribute</h2>
 
-Exposicion de funciones del sensor
+<p title="I'm a tooltip">Mouse over this paragraph, to display the title attribute as a tooltip.</p>
+
+</body>
+</html>
